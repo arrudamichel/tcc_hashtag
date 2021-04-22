@@ -78,7 +78,7 @@ O workflow abaixo exibe as fases para obtenção, preparação e criação do gr
 
 Analisando o gráfico de frequência, é possível observar que a hashtag #foradilma ocorreu aproximadamente 70,7% mais vezes que a #foracunha, isso mostra que os usuários do Twitter demonstram ser mais contrários ao governo de Dilma, do que contra as ações de Eduardo Cunha na presidência da Câmara dos Deputados.
 
-Observando também a relação de apoio ou repúdio a Dilma e Eduardo Cunha, pôde ser visto que aproximadamente 65% das hashtags manifestam-se contra Dilma e seu partido, o PT, e aproximadamente 30%, contra Eduardo Cunha. O 5% restantes estão relacionados a manifestações de patriotismo, indignação contra corrupção e contra o presidente do Senado, Renan Calheiros.
+Observando também a relação de apoio ou repúdio a Dilma e Eduardo Cunha, pôde ser visto que aproximadamente 65% das hashtags manifestam-se contra Dilma e seu partido, o PT, e aproximadamente 30%, contra Eduardo Cunha. Os 5% restantes estão relacionados a manifestações de patriotismo, indignação contra corrupção e contra o presidente do Senado, Renan Calheiros.
 
 Após análise, somente do gráfico de frequência, consegue-se visualizar uma superioridade na frequência de manifestações contra Dilma e seu partido em relação a Eduardo Cunha.
 
@@ -86,11 +86,11 @@ Outra forma possível de análise das manifestações pode ser realizada atravé
 
 Mesmo com o par [#foraDilma, #foraPT ] tendo grande destaque diante aos demais, as maiores ocorrências demonstram manifestações contrárias a Dilma e a Eduardo Cunha em um certo grau de equivalência.
 
-O último resultado obtido foi por meio da utilização de Regras de Associação [62, 60] contido na tabela 4.4. Foi possível identificar que a regra de maior suporte, [foradilma -> forapt], teve grande destaque diante as demais, com 65,1%, e a regra de maior confiança foi [forapt -> foradilma], com 98,2%. 
+O último resultado obtido foi por meio da utilização de Regras de Associação. Foi possível identificar que a regra de maior suporte, [foradilma -> forapt], teve grande destaque diante as demais, com 65,1%, e a regra de maior confiança foi [forapt -> foradilma], com 98,2%. 
 
 Além dos maiores valores na análise de suporte e confiança, observando todas as regras geradas, grande maioria é contrária a Dilma e seu partido. 
 
-Podendo afirmar que através das regras de associação [62, 60], manifestações contra Dilma se destacam em relação a Eduardo Cunha.
+Podendo afirmar que através das regras de associação, manifestações contra Dilma se destacam em relação a Eduardo Cunha.
 
 Após todas as análises, conclui-se que a partir dos dados coletados do Twitter, no período de dezembro de 2015, pode ser visualizado, em grande destaque, manifestações contra Dilma e seu partido.
 
