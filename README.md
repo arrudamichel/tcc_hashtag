@@ -1,6 +1,6 @@
 # Uma ferramenta de análise de padrões em hashtags no Twitter
 
-Trabalho apresentado para a conclusão do curso de graduação em Bacharelado em Ciência da Computação pela Universidade Federal Rural do Rio de Janeiro, por Michel Arruda e Rafael Costa e orientado por Carlos Eduardo Mello.
+Trabalho apresentado, em Fevereiro de 2016, para a conclusão do curso de graduação em Bacharelado em Ciência da Computação pela Universidade Federal Rural do Rio de Janeiro, por Michel Arruda e Rafael Costa e orientado por Carlos Eduardo Mello.
 
 Texto final em: "texto_final_tcc.pdf"
 
@@ -59,3 +59,17 @@ O workflow abaixo exibe as fases para obtenção, preparação e criação da ma
 O workflow abaixo exibe as fases para obtenção, preparação e criação do gráfico de frequência de hashtags.
 
 <img src="/Imagens/graficos.png" />
+
+## Resultados
+
+#### Gráfico de Frequência de Hashtags
+
+<img src="/Imagens/graficoFrequencia.png" />
+
+#### Matriz de Coocorrência
+
+<img src="/Imagens/graficoCoocorrencia.png" />
+
+#### Resultado da aplicação da Regra de Associação
+
+<img src="/Imagens/tabelaRegraAssociacao.png" />
