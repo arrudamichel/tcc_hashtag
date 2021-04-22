@@ -2,6 +2,9 @@
 
 Trabalho apresentado para a conclusão do curso de graduação em Bacharelado em Ciência da Computação pela Universidade Federal Rural do Rio de Janeiro, por Michel Arruda e Rafael Costa e orientado por Carlos Eduardo Mello.
 
+Texto final em: "texto_final_tcc.pdf"
+
+Apresentação final em: "apresentacao_final_tcc.pptx"
 
 ## Resumo
 
@@ -19,7 +22,7 @@ utilizadas como alvo de busca, apresentando resultados satisfatórios. A partir 
 Para implementação da ferramenta, foi utilizado o [Knime](https://www.knime.com/), que provê um ambiente visual para construção de workflows que podem ser utilizados em pipeline de ETL, análise e extração de resultado em dados. 
 
 
-Foram criados 5 workflows: Obtenção de dados do Twitter, Regra de Associação em Hashtags, Matriz de Distância, Matriz de Coocorrência e Apresentação de Gráficos.
+Foram criados 5 workflows: Obtenção de dados do Twitter, Regra de Associação em Hashtags, Matriz de Distância, Matriz de Coocorrência e Gráfico de Frequência.
 
 
 Para ter acesso aos workflows, acesse a pasta [/workflow](https://github.com/arrudamichel/tcc_hashtag/edit/master/Workflows/). 
@@ -29,20 +32,30 @@ Para importar cada workflow, abra o Knime e acesse "File/Import Knime Workflow..
 
 #### Obtenção de dados do Twitter
 
+O workflow abaixo apresenta onde é realizada a obtenção dos tweets, extração das hashtags e armazenamento em um banco de dados.
+
 <img src="/Imagens/obtencaoHashtag.png" />
 
 #### Regra de Associação em Hashtags
+
+O workflow abaixo exibe as fases de obtenção dos dados armazenados, de preparação e processamento desses dados.
 
 <img src="/Imagens/regraAssociacao.png" />
 
 #### Matriz de Distância
 
+O workflow abaixo exibe as fases para obtenção, preparação e criação da matriz de distância.
+
 <img src="/Imagens/matrizDistancia.png" />
 
 #### Matriz de Coocorrência
 
+O workflow abaixo exibe as fases para obtenção, preparação e criação da matriz de coocorrência.
+
 <img src="/Imagens/matrizCoocorrencia.png" />
 
-#### Apresentação de Gráficos
+#### Gráfico de Frequência de Hashtags
+
+O workflow abaixo exibe as fases para obtenção, preparação e criação do gráfico de frequência de hashtags.
 
 <img src="/Imagens/graficos.png" />
